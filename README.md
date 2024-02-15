@@ -6,3 +6,5 @@ This is the first file in this repo
 duckduckgo is a search Engine
 
 Privacy
+
+adding index.html
