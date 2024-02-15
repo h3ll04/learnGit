@@ -7,4 +7,4 @@ duckduckgo is a search Engine
 
 Privacy
 
-adding index.html
+adding index.html in the repo
